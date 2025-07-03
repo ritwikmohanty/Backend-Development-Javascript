@@ -161,8 +161,8 @@ By the end of this workshop, you'll have:
 
 ## 📚 Additional Resources
 
-- [Node.js Documentation](https://nodejs.org/docs/)
-- [Express.js Guide](https://expressjs.com/)
+- [Node.js Documentation](https://nodejs.org/docs/latest/api)
+- [Express.js Guide](https://expressjs.com/en/guide/routing.html)
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Postman Learning Center](https://learning.postman.com/)
 
