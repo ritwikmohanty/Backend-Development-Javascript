@@ -1,6 +1,6 @@
 # Backend Development with JavaScript - Workshop Repository
 
-Welcome to the comprehensive Backend Development workshop repository! This repo contains materials from a 2-day workshop (4 hours total) covering both the breadth of backend development concepts and hands-on depth with JavaScript/Node.js.
+Welcome to the comprehensive Backend Development workshop repository! This repo contains materials from a 2-day workshop (4 hours total) that I taught, covering both the breadth of backend development concepts and hands-on depth with JavaScript/Node.js.
 
 ## 📋 Workshop Overview
 
@@ -166,7 +166,7 @@ By the end of this workshop, you'll have:
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Postman Learning Center](https://learning.postman.com/)
 
-## 🤝 Workshop Feedback
+## About the workshop
 
 This workshop was conducted by me as a solo presentation covering both theoretical concepts and practical implementation. The goal was to provide participants with a solid foundation in backend development while giving them hands-on experience with modern JavaScript technologies.
 
